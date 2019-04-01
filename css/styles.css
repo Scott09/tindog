@@ -41,7 +41,7 @@ body {
 }
 
 .nav-item {
- padding: 0 18px;
+    padding: 0 18px;
 }
 
 
@@ -51,7 +51,7 @@ body {
 .nav-link {
     font-size: 1.2rem;
     font-family: "Montserrat";
-    border: solid 1px;
+
     
 }
 
